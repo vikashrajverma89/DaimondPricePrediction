@@ -19,7 +19,7 @@ def get_requirements(filename:str)->List[str]:
 setup(
     name='DaimondPricePrediction',
     version='0.0.2',
-    author='vikash',
+    author='vikashrajverma89',
     author_email='vikashrajverma89@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
